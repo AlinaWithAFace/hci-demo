@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\alina\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\alina\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Mixcast HCI Demo.924441714.00" t="ExcludeRecursive" />
+    <e p="C:\Users\alina\Mixcast HCI Demo" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BlueprintReality" t="Include">
+          <e p="Localization" t="Include">
+            <e p="Localization.cs" t="Include" />
+            <e p="SetTextFromLocalization.cs" t="Include" />
+          </e>
+          <e p="Serialization" t="Include">
+            <e p="MiniJSON.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Hierarchy" t="Include">
+              <e p="SetRectFromChildRects.cs" t="Include" />
+              <e p="SetRectFromParentRect.cs" t="Include" />
+              <e p="SpawnPrefabAsChild.cs" t="Include" />
+            </e>
+            <e p="Interaction" t="Include">
+              <e p="SetInteractableFromActive.cs" t="Include" />
+              <e p="SetSelectableFromActiveAndInactive.cs" t="Include" />
+              <e p="TooltipEntry.cs" t="Include" />
+              <e p="TooltipGroup.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Unity" t="Include">
+            <e p="GameObjects" t="Include">
+              <e p="Stack" t="Include">
+                <e p="GameObjectStack.cs" t="Include" />
+                <e p="GameObjectStackElement.cs" t="Include" />
+                <e p="PopFromGameObjectStack.cs" t="Include" />
+                <e p="Popup" t="Include">
+                  <e p="OpenPopupWindow.cs" t="Include" />
+                  <e p="PopupWindow.cs" t="Include" />
+                </e>
+                <e p="PushToGameObjectStack.cs" t="Include" />
+                <e p="SetActiveFromOnTopOfStack.cs" t="Include" />
+              </e>
+            </e>
+            <e p="OpenWebsiteControls.cs" t="Include" />
+          </e>
+        </e>
+        <e p="MixCast" t="Include">
+          <e p="Editor" t="Include">
+            <e p="DebugFGAlphaWindow.cs" t="Include" />
+            <e p="MixCastProjectSettingsInspector.cs" t="Include" />
+            <e p="ScriptDefineManager.cs" t="Include" />
+            <e p="SdkAnalytics.cs" t="Include" />
+            <e p="SdkImporter.cs" t="Include" />
+            <e p="ShaderTransparencyWizard.cs" t="Include" />
+            <e p="UpdateChecker.cs" t="Include" />
+          </e>
+          <e p="Extras" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ClearSelectedFromEventSystem.cs" t="Include" />
+              <e p="KeyEvents.cs" t="Include" />
+              <e p="SetActiveFromActive.cs" t="Include" />
+              <e p="SetActiveFromKey.cs" t="Include" />
+              <e p="SetActiveFromSelectable.cs" t="Include" />
+              <e p="SetActiveFromToggle.cs" t="Include" />
+              <e p="SetPositionFromGroundHit.cs" t="Include" />
+              <e p="SetPositionFromTransform.cs" t="Include" />
+              <e p="SetScaleFromTransform.cs" t="Include" />
+              <e p="ShowHideFromEvent.cs" t="Include" />
+              <e p="SlateUi.cs" t="Include" />
+              <e p="ToggleRawImageAlpha.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="ProjectorLight.shader" t="Include" />
+              <e p="ProjectorMultiply.shader" t="Include" />
+            </e>
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Resources" t="Include">
+            <e p="Hidden - AlphaOut.shader" t="Include" />
+            <e p="Hidden - AlphaTransfer.shader" t="Include" />
+            <e p="Hidden - AlphaWrite.shader" t="Include" />
+            <e p="Hidden - BackgroundBlit.shader" t="Include" />
+            <e p="Hidden - DepthWrite.shader" t="Include" />
+            <e p="Hidden - ForegroundBlit PMA.shader" t="Include" />
+            <e p="Hidden - ForegroundBlit.shader" t="Include" />
+            <e p="Hidden - ScreenSpaceShadows NoFade.shader" t="Include" />
+            <e p="MixCast-BW.shader" t="Include" />
+            <e p="MixCast-DepthMaskPass.shader" t="Include" />
+            <e p="MixCast-ProcessInput.shader" t="Include" />
+            <e p="MixCast-SeparableBlur.shader" t="Include" />
+            <e p="Watermark.shader" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Compositing" t="Include">
+              <e p="BufferedMixCastCamera.cs" t="Include" />
+              <e p="FrameDelayQueue.cs" t="Include" />
+              <e p="ImmediateMixCastCamera.cs" t="Include" />
+              <e p="Lighting" t="Include">
+                <e p="MixCastLight.cs" t="Include" />
+                <e p="SetLightsForInputFeed.cs" t="Include" />
+              </e>
+              <e p="MixCastCamera.cs" t="Include" />
+              <e p="MixCastCameras.cs" t="Include" />
+              <e p="Projection" t="Include">
+                <e p="InputFeedProjection.cs" t="Include" />
+                <e p="MakeCopyOfInputProjection.cs" t="Include" />
+              </e>
+              <e p="QuadrantMixCastCamera.cs" t="Include" />
+              <e p="Rendering" t="Include">
+                <e p="BlitTexture.cs" t="Include" />
+                <e p="HideObjectForCamera.cs" t="Include" />
+                <e p="SetCameraParametersFromMainCamera.cs" t="Include" />
+                <e p="SetFPSFromCameraContext.cs" t="Include" />
+                <e p="SetGroundOriginFromRaycast.cs" t="Include" />
+                <e p="SetRenderingCanvasForMixCast.cs" t="Include" />
+                <e p="SetRenderingControllerForMixCast.cs" t="Include" />
+                <e p="SetRenderingForMixCast.cs" t="Include" />
+              </e>
+              <e p="SetActiveFromOutputMode.cs" t="Include" />
+              <e p="SetBufferDelayFromShortcutKey.cs" t="Include" />
+              <e p="UpdateOutputModeFromDelaySetting.cs" t="Include" />
+            </e>
+            <e p="Data" t="Include">
+              <e p="Access" t="Include">
+                <e p="CameraComponent.cs" t="Include" />
+                <e p="CameraConfigContext.cs" t="Include" />
+                <e p="MachineId.cs" t="Include" />
+                <e p="MixCastPath.cs" t="Include" />
+                <e p="MixCastRegistry.cs" t="Include" />
+                <e p="SetCameraConfigFromIndex.cs" t="Include" />
+              </e>
+              <e p="Runtime" t="Include">
+                <e p="SetActiveFromCameraConfigured.cs" t="Include" />
+                <e p="SetActiveFromCameraCount.cs" t="Include" />
+                <e p="SetActiveFromLicense.cs" t="Include" />
+                <e p="SetActiveFromMixCastConfigured.cs" t="Include" />
+                <e p="SetBrandingLogoFilenameFromData.cs" t="Include" />
+                <e p="SetImageFromMixCastData.cs" t="Include" />
+                <e p="SetLanguageFromRegistry.cs" t="Include" />
+                <e p="SetScaleFromMixCastSetting.cs" t="Include" />
+                <e p="SetTextFromCameraDisplayName.cs" t="Include" />
+                <e p="SetTransformFromDisplayData.cs" t="Include" />
+              </e>
+              <e p="Structure" t="Include">
+                <e p="MixCastData.cs" t="Include" />
+                <e p="MixCastProjectSettings.cs" t="Include" />
+              </e>
+              <e p="Utility" t="Include">
+                <e p="MixCastDataUtility.cs" t="Include" />
+                <e p="SteamConfigUtility.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Input" t="Include">
+              <e p="Audio" t="Include">
+                <e p="AudioAsyncFeed.cs" t="Include" />
+                <e p="AudioAsyncFeedInitializer.cs" t="Include" />
+                <e p="AudioAsyncOutputMux.cs" t="Include" />
+                <e p="AudioAsyncOutputMuxBase.cs" t="Include" />
+                <e p="AudioCallbackComponent.cs" t="Include" />
+                <e p="AudioCallbackContext.cs" t="Include" />
+                <e p="AudioCallbackMaster.cs" t="Include" />
+                <e p="AudioConfigContext.cs" t="Include" />
+                <e p="AudioDevice.cs" t="Include" />
+                <e p="AudioDeviceManager.cs" t="Include" />
+                <e p="AudioRestartDeviceFromDelayChange.cs" t="Include" />
+                <e p="SetAudioConfigurationFromToggles.cs" t="Include" />
+              </e>
+              <e p="BackgroundRemoval" t="Include">
+                <e p="ApplyChromakeyToInputFeed.cs" t="Include" />
+                <e p="ApplyRemovalToInputFeed.cs" t="Include" />
+                <e p="ApplyStaticDepthToInputFeed.cs" t="Include" />
+                <e p="ApplyStaticSubtractionToInputFeed.cs" t="Include" />
+                <e p="SetActiveFromCalibratedMode.cs" t="Include" />
+                <e p="SetActiveFromIsolationMode.cs" t="Include" />
+              </e>
+              <e p="DirectShow" t="Include">
+                <e p="DirectShowDevices.cs" t="Include" />
+                <e p="DirectShowInputFeed.cs" t="Include" />
+                <e p="DirectShowInputFeedStream.cs" t="Include" />
+              </e>
+              <e p="FeedDeviceManager.cs" t="Include" />
+              <e p="InputFeed.cs" t="Include" />
+              <e p="MixCastAV.cs" t="Include" />
+              <e p="RealSense" t="Include">
+                <e p="InitRealSenseSettings.cs" t="Include" />
+                <e p="RealSenseConfiguration.cs" t="Include" />
+                <e p="RealSenseDevice.cs" t="Include" />
+                <e p="RealSenseInputFeed.cs" t="Include" />
+                <e p="RealSenseMixcastImages.cs" t="Include" />
+                <e p="RealSenseStreamTexture.cs" t="Include" />
+                <e p="RealSenseUtility.cs" t="Include" />
+                <e p="SetActiveFromCameraInputIsRealSense.cs" t="Include" />
+              </e>
+              <e p="SetActiveFromCameraHasInput.cs" t="Include" />
+              <e p="SetActiveFromCameraInputName.cs" t="Include" />
+              <e p="SetImageFromMixCastInput.cs" t="Include" />
+              <e p="SetIRImageFromMixCastInput.cs" t="Include" />
+            </e>
+            <e p="MixCast.cs" t="Include" />
+            <e p="MixCastActivator.cs" t="Include" />
+            <e p="Output" t="Include">
+              <e p="Display" t="Include">
+                <e p="DisplayingCameraControls.cs" t="Include" />
+                <e p="DisplaySlotContext.cs" t="Include" />
+                <e p="MixCastDesktop.cs" t="Include" />
+                <e p="MixCastDesktopControls.cs" t="Include" />
+                <e p="SetActiveFromDesktopCameraCount.cs" t="Include" />
+                <e p="SetActiveFromDesktopState.cs" t="Include" />
+                <e p="SetCameraConfigFromDisplayingCamera.cs" t="Include" />
+                <e p="SetDesktopStateFromToggle.cs" t="Include" />
+                <e p="SetImageFromMixCastOutput.cs" t="Include" />
+              </e>
+              <e p="Images" t="Include">
+                <e p="JPGEncoder.cs" t="Include" />
+              </e>
+              <e p="OutputMixCastBase.cs" t="Include" />
+              <e p="Recording" t="Include">
+                <e p="MixCastFiles.cs" t="Include" />
+                <e p="MixCastOutputFolderControls.cs" t="Include" />
+                <e p="OutputMixCastToScreenshot.cs" t="Include" />
+                <e p="OutputMixCastToScreenshotAuto.cs" t="Include" />
+                <e p="OutputMixCastToTimelapse.cs" t="Include" />
+                <e p="OutputMixCastToVideoFile.cs" t="Include" />
+                <e p="OutputMixCastToVideoFileAuto.cs" t="Include" />
+                <e p="RecordingCameraControls.cs" t="Include" />
+              </e>
+              <e p="SetActiveFromCameraInUse.cs" t="Include" />
+              <e p="SetActiveFromOutputResolution.cs" t="Include" />
+              <e p="Streaming" t="Include">
+                <e p="OutputMixCastToNetwork.cs" t="Include" />
+                <e p="OutputMixCastToUserNetwork.cs" t="Include" />
+                <e p="SetActiveFromStreamConfigured.cs" t="Include" />
+                <e p="StreamingInfoManager.cs" t="Include" />
+                <e p="StreamingServer.cs" t="Include" />
+                <e p="StreamingServerList.cs" t="Include" />
+                <e p="StreamingServiceUtility.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Profiling" t="Include">
+              <e p="CPUPerformanceSpoiler.cs" t="Include" />
+              <e p="CPUTracker.cs" t="Include" />
+              <e p="DroppedFramesTracker.cs" t="Include" />
+              <e p="FPSStatsTracker.cs" t="Include" />
+              <e p="FPSTrackerTester.cs" t="Include" />
+              <e p="GameFPSTracker.cs" t="Include" />
+              <e p="GPUTracker.cs" t="Include" />
+              <e p="MixCastRenderFPSTracker.cs" t="Include" />
+              <e p="PerformanceNotifier.cs" t="Include" />
+              <e p="PerformanceTracker.cs" t="Include" />
+              <e p="PerformanceTrackerLabel.cs" t="Include" />
+              <e p="PerformanceTrackerReferenceLabel.cs" t="Include" />
+              <e p="SetTextFromFPS.cs" t="Include" />
+              <e p="StatsTracker.cs" t="Include" />
+            </e>
+            <e p="Tracking" t="Include">
+              <e p="RotateRoomControls.cs" t="Include" />
+              <e p="SensorMissingIndicator.cs" t="Include" />
+              <e p="SensorPoseChecker.cs" t="Include" />
+              <e p="SetActiveFromCameraTracked.cs" t="Include" />
+              <e p="SetActiveFromCameraTrackedBy.cs" t="Include" />
+              <e p="SetTransformFromCameraSettings.cs" t="Include" />
+              <e p="TrackedDeviceManager.cs" t="Include" />
+              <e p="TrackedDeviceManager_Oculus.cs" t="Include" />
+              <e p="TrackedDeviceManager_SteamVR.cs" t="Include" />
+              <e p="TrackingSpaceOrigin.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="AudioComponent.cs" t="Include" />
+              <e p="FileTextureLoader.cs" t="Include" />
+              <e p="IfActiveCallAudioCallbackEnable.cs" t="Include" />
+              <e p="Interaction" t="Include">
+                <e p="SelectableUtility.cs" t="Include" />
+                <e p="SetVertScrollbarPosOnEnable.cs" t="Include" />
+              </e>
+              <e p="Layout" t="Include">
+                <e p="FitRawImage.cs" t="Include" />
+                <e p="SetParentLayoutOnActiveChange.cs" t="Include" />
+              </e>
+              <e p="Popups" t="Include">
+                <e p="ShowPopupOnRecordingEvent.cs" t="Include" />
+                <e p="ShowPopupOnScreenshotEvent.cs" t="Include" />
+                <e p="ShowPopupOnStreamingEvent.cs" t="Include" />
+                <e p="ToastCenter.cs" t="Include" />
+                <e p="ToastEventHandler.cs" t="Include" />
+              </e>
+              <e p="ScreenUtility.cs" t="Include" />
+              <e p="SetActiveFromMixCastState.cs" t="Include" />
+              <e p="SetEnabledFromMixCastState.cs" t="Include" />
+              <e p="SetGraphicAlphaFromMixCastSetting.cs" t="Include" />
+              <e p="SetRawImageFromFile.cs" t="Include" />
+              <e p="SetTextFromLocalizationCustom.cs" t="Include" />
+              <e p="SetTextFromMixCastVersion.cs" t="Include" />
+            </e>
+            <e p="Utility" t="Include">
+              <e p="BuildTargetWarnings.cs" t="Include" />
+              <e p="Crypto" t="Include">
+                <e p="MixCastCryptoUtils.cs" t="Include" />
+                <e p="MixCastDecrypter.cs" t="Include" />
+                <e p="MixCastEncrypter.cs" t="Include" />
+                <e p="MixCastEncryptionKey.cs" t="Include" />
+                <e p="SdkTamperDetection.cs" t="Include" />
+              </e>
+              <e p="DiskSpaceMonitor.cs" t="Include" />
+              <e p="Events" t="Include">
+                <e p="BaseEventHandler.cs" t="Include" />
+                <e p="EventCenter.cs" t="Include" />
+              </e>
+              <e p="Find.cs" t="Include" />
+              <e p="OutputLog.cs" t="Include" />
+              <e p="RunWithDelay.cs" t="Include" />
+              <e p="VRInfo.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Includes" t="Include">
+              <e p="BPR_ShaderHelpers.cginc" t="Include" />
+              <e p="MixCastBGRemoval.cginc" t="Include" />
+              <e p="MixCastColor.cginc" t="Include" />
+              <e p="MixCastCropping.cginc" t="Include" />
+              <e p="MixCastDepth.cginc" t="Include" />
+              <e p="MixCastLighting.cginc" t="Include" />
+            </e>
+            <e p="MixCast-DisplayFeed-HSVModify.shader" t="Include" />
+            <e p="MixCast-DisplayFeed-Posterize.shader" t="Include" />
+            <e p="MixCast-DisplayFeed.shader" t="Include" />
+            <e p="Particle-Additive-PMA.shader" t="Include" />
+            <e p="Particle-AlphaBlend-PMA.shader" t="Include" />
+            <e p="Particles-Multiply-NoSoft.shader" t="Include" />
+            <e p="Unlit-Texture NoAlpha.shader" t="Include" />
+          </e>
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="MixCast" t="Include">
+            <e p="legal.txt" t="Include" />
+            <e p="version.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Mixcast HCI Demo.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
